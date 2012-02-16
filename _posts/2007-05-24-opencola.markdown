@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: OpenCola
+---
+
+![OpenCola](http://www.wikihow.com/images/2/27/Opencola_895.png)
+
+I'm a big fan of open-source: I use an open-source [OS](http://www.ubuntu.com/), [MP3 server](http://en.wikipedia.org/wiki/SlimServer) and edit this website using and [open-source blogging tool](http://wordpress.org/). This is a first for me though: an [open source recipe for cola](http://www.wikihow.com/Make-OpenCola) called, you guessed it, OpenCola. Here's what they say:
+<blockquote>While Pepsi and Coca-Cola (and others) closely guard their secrets to making cola beverages, several organizations have released their own recipes. Here is the recipe for homemade "OpenCola," an open-source cola beverage that invites makers to create and modify their recipe to achieve a better beverage. It is licensed under the GNU General Public License.</blockquote>
+I love the way it is under [GNU GPL](http://en.wikipedia.org/wiki/GNU_General_Public_License) and notice on the same page are links to other open-source beverages such as [cherry-cola](http://www.wikihow.com/Make-Cherry-Cola) and [ginger ale](http://www.wikihow.com/Make-Ginger-Ale). 

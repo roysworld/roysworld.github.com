@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Happy Birthday Billy
+---
+Today Billy is six years old. We had a brilliant morning opening his presents and he then had to go to school. So far the things that made the most impact were a magic set, an anatomy figure (you know with lungs that drop out) and some spiderman stuff. <br /><br />Last Saturday he had a joint birthday party with the twins James and Steven. We hired out a local pavillion and a childrens entertainer called Esther. She got all the kids dancing, and they had a brilliant time doing the hokey-cokey. He got loads of presents from his friends, went to bed late, and thoroughly enjoyed himself. Annie got chicken pox (but enjoyed the party anyway).<br /><br />Billy's Favourite Things:<br />Spiderman, Star Wars, Badminton, Water-Pistols, Duck-Dodgers, Riding on his taggie, Doctor Who.<br /><br />Interesting Recent Events:<br />Live8 (on party day), Scientists fired some stuff at a comet (Deep Impact), ID Cards still being discussed, G8 Protests happening.<br />

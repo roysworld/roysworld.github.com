@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Sir William the Brave
+---
+We had a brilliant day at [Warwick Castle](http://www.warwick-castle.co.uk/ "Warwick Castle") yesterday. The sun was out and they had a Mediaeval festival on - with displays of fighting knights and stories told by the Ratcatcher (one of Billys highlights).rn rnI haven't been since I was a kid myself and the dungeon is still as eerie as I remember it being. Due to the amounts of stairs and Annie being too little, myself and Paula had to take shifts walking Billy up to the top of towers. He insisted on climbing to the top of every tower with each of us and unsurprisingly fell asleep the instant we got back to the car. rnrnIt's a little bit pricey and they stopped serving food at 4.00pm which is a bit rubbish when you have kids and they are actually open until 6.00pm. Nevertheless we had a great day out - and we'll definitely be back.rnrnWe got Billy a suit of armour that he now wears constantly. He says he is a "bad Knight" and that he is going to wear his suit of armour everyday because unlike the Knights at the castle, he is "real".

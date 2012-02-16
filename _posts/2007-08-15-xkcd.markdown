@@ -1,0 +1,6 @@
+--- 
+layout: post
+title: XKCD
+---
+James pointed me to [XKCD: a webcomic of romance, sarcasm, math, and language](http://xkcd.com). Loads of the cartoons made me laugh, but I particularly liked this one:
+[![Sandwich](http://imgs.xkcd.com/comics/sandwich.png)](http://xkcd.com/149/)

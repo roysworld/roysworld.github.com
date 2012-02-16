@@ -1,0 +1,6 @@
+--- 
+layout: post
+title: Money
+---
+[![XKCD: Money](http://imgs.xkcd.com/comics/money.png)](http://xkcd.com/980/)
+...by the ever inspirational [xkcd](http://xkcd.com/)

@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Semacodes
+---
+I've just stumbled across a cool bit of technology called semacodes.  A semacode is basically an optical barcode that represents an URL, this allows any semacode reader to scan the card and therefore link to the relevant website. The smart guys at [semacode.org](http://www.semacode.org) have created readers for a number of camera enabled mobile phones, allowing you to take a snap of a semacode and then bring up info from a website. Now here's a smart use of this. Over at [semapedia.org](http://www.semapedia.org/) they have a goal to connect the internet with the real World by linking together semacodes with [wikipedia](http://wikipedia.org/) allowing your cellphone to be a smart travel guide. They need [your help](http://www.semapedia.org/create/index.php) to tag the World.Oh and by the way, here's what http://roysworld.co.uk looks like as a semacode, maybe I should get a tshirt printed?![RoysWorld Semacode](http://roysworld.co.uk/media/roysworld_semacode.GIF) 

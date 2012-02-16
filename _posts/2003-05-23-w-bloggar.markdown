@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: w.bloggar
+---
+Found this great little blogging utility today called [w.bloggar](http://wbloggar.com/download/ "w.bloggar").<br />Fully compatible with most of the blogging API's ( Blogger API, metaWeblog API, MovableType API and b2 API). I just need a Linux version now...

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Jekyll
+---
+I've been having a bit of trouble with this blog.
+ 
+Firstly I was finding [wordpress](http://wordpress.org) a sledge hammer with which to crack this little nut. Then I had a problem when upgrading to the latest version that resulted in downtime. All things considered I felt that with the New Year should come a new change, and here it is.
+
+So what's the difference I hear you cry (yes both of you)? Well from your point of view, hopefully not a lot. From my viewpoint I've ditched wordpress, and converted to using [jekyll](https://github.com/mojombo/jekyll). In just a couple of nights hacking I've converted all my old posts to [markdown](http://daringfireball.net/projects/markdown) and come up with a much simpler css for the site. Yes there are a few more pieces to sort out (wot no twitter), but the process of blogging is much simpler. [Roysworld](http://roysworld.co.uk) should far easier for me to maintain, and all the posts are now under source control.
+
+Oh and Happy New Year.

@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: NaDa
+---
+[NaDa does nothing for everyone.](http://www.bernardbelanger.com/computing/NaDa/index.html "NaDa does nothing for everyone")

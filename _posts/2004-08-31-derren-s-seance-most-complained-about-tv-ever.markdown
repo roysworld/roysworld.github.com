@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Derren's Seance Most Complained About TV Ever!
+---
+Yes that's right, Derren Brown's TV seance has officially become the most complained about television programme in the history of British television. Here's what Derren has to say about it:rn<blockquote>It attracted some 700 complaints. I might add that the prospect of me blowing my head off on live television last year attracted only twenty. Fair enough, I suppose.rnAll bar about thirty of the Seance complaints were made before the show aired, mainly from Christians who felt that such a show would usher in demonic forces. One doesn't want to attack anyone's personal beliefs, but having been a Christian myself, I remember how wonderful it was to decide one was 'offended' by something: such a feeling allows one to hold ones head up high when one might feel otherwise outcast, and to bewilder others into a kind of apologetic stupor. Certainly much more rewarding than trying to take an objective look at the 'offending' matter: here, and generally elsewhere, some psychologically interesting charlatanism. Ho-hum.</blockquote>rn[Via [Derren Brown](http://www.derrenbrown.co.uk/news.asp)]rn

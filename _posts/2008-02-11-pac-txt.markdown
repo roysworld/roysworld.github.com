@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Pac-Txt
+---
+
+![Pac-Txt](http://pac-txt.com/images/logo.gif)
+Like Pac-Man?Remember Text Adventures?You'll love [Pac-Txt](http://pac-txt.com/)

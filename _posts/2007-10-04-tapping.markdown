@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Tapping
+---
+[![Tapping](http://imgs.xkcd.com/comics/tapping.png)](http://xkcd.com/324/)

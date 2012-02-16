@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Cat Chat
+---
+A Japanese company has invented [a device to understand cats.](http://news.bbc.co.uk/1/hi/world/asia-pacific/3074163.stm) Apparently Meowlingual translates the cat's emotion into phrases such as "I can't stand it". This is a follow on from Bowlingual for dogs. I am waiting for the [Barnsley](http://www.barnsley.co.uk/) version (By-Eck-lingual).

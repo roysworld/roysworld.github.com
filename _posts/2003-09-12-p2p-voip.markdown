@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: P2P VOIP
+---
+Me and John had some thoughts about a P2P VOIP solution...<br /> We thought about it a lot...<br />We thought about it for too long...<br /><br />The people who brought KaZaA have just released [Skype](http://skype.com "Skype"), a true P2P VOIP solution that uses the same network structures as KaZaA and Gnutella. They've work hard to make it firewall and NAT friendly and it looks really good. As yet there are only versions for XP and 2000 - and I don't know if it runs under Wine on Linux. I must get it installed at the weekend and give it a go.

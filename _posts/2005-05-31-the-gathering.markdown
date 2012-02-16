@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: The Gathering
+---
+On Saturday evening Channel 4 aired "Derren Brown: The Gathering". If you like Derren this was a must-see. Derren basically filled a theatre with a mixture of celeb's, students and cabbies and performed what (in my mind) he does best - his live show. This was all very familiar to me as the show was a partial reworking of his 2003 live tour that Paula and I saw at Shaftsbury Avenue in September of that year. The show had been trimmed to fit into a TV special at 1 hour and 10 mins, and it was excellent. The show was at the usual break-neck speed that we expect in Derren's live shows and it culminated in the sort of suprise ending he does so well. This special is Derren at his best; I never think the TV series ever quite live up to the live shows and this gave you a taster as to what an experience it is. If you liked what you saw, the current "Something Wicked This Way Comes" tour is still running across the UK. Blag, eBay or steal some tickets and go and see. You will be amazed.

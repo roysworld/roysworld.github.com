@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Uffington White Horse
+---
+We took the kids up to see the [Uffington White Horse](http://www.mysteriousbritain.co.uk/majorsites/uffington.html) today. Billy thought they were really clever to be able to draw such a big horse with chalk. Annie just laid in the push chair trying to look interested, and gurgling to Dad to make sure he had a firm enough grip. We parked next to several old 'uns sipping from flasks of hot tea wondering who the mad family were wrestling in the wind with various coats, buggy covers and other miscellaneous waterproofs. <br /><br />Apparently St George slayed the Dragon nearby on Dragon Hill and the white patch is where the blood was spilt. One theory is that the horse is an ancient fertility symbol - so I'd better keep a 'peg on it' for a few days.<br /><br />The locals also used to race cheeses down the side of the hill into an area called the Manger. We thought about continuing the tradition but decided that the Dairy-Lee triangles we had would be difficult to 'race'.

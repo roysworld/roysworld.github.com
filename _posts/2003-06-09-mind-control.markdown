@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Mind Control
+---
+On Sunday evening Paula and I went to see [Derren Brown](http://www.derrenbrown.co.uk/home.asp) live at the Palace Theatre, Shaftsbury Avenue. You may have seen him in his [Mind Control](http://www.channel4.co.uk/science/microsites/M/mindcontrol/index.html) series for Channel 4. The show was fantastic. It was brilliantly put together with a combination of traditional magic, mental magic, guesswork and a certain degree of luck. Due to the nature of his show some of the illusions will and do fail. Where he is really skilled is turning these failures into paths into other aspects of the show. I imagine each performance could go in a number of different directions dependant on how successful or unsuccessful each trick is and you tend to forget the anti-climaxes. At the end (after a standing ovation) he announced that he would be putting on a West End show next year - so assuming he's not refering to Miss Saigon or something I will be first in the queue for a ticket - and I would recommend you are too. I the mean time think of a number....any number....make it two digits and higher than 30....

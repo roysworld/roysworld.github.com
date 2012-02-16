@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Great Day Out
+---
+We have just returned from a great day out at the  [Oxford University Museum of Natural History](http://www.oum.ox.ac.uk/). What a brilliant museum this is - and I didn't know it existed. It reminded me of the old Victorian museums you see at the beginning of movie versions of boys own adventures, you know the ones where a bunch of Oxford Dons meet up sipping whisky and discussing some adventure to a Lost World. It's stuffed full of complete dinosaur skeletons, including a full size cast of a particularly scary T-Rex, and was a dream come true for Billy. Annie took a fancy to cases of stuffed foxes - she was squealing with delight when she saw them. <br /><br />In the same building is the [Pitt Rivers Museum](http://www.prm.ox.ac.uk/) - named after Lt.-General Pitt Rivers who gave his unusual collection of archaeological and ethnographic items from around the World. We ran out of time by the time we got here - but managed to take a look at the giant Totem pole and a rather spooky looking Mummy. <br /><br />We will definitely go back to finish our own exploration; and the best bit? It's free to get in.

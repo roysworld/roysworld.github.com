@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: ET The Game
+---
+Back in the distant past (well the 80's) I had an Atari 2600. I loved my Atari 2600. I was lucky to have an Atari 2600. The problem was I didn't have any money to buy games. I remember convincing my Mum to let me buy [Yars Revenge](http://en.wikipedia.org/wiki/Yars'_Revenge) from her [Kays catalogue](http://www.thecatalogshop.co.uk/catalogue-history/kays-catalogue.php) at 20p a week for about 15 years. She said "Yes". It was rubbish. About the same time, I really REALLY wanted to buy ET the Game, but as I had already committed my pocket money to the repayments for [Yars Revenge](http://en.wikipedia.org/wiki/Yars'_Revenge) I couldn't and didn't get it. Looks like I escaped lightly as [guardiane's ](http://youtube.com/user/guardiane)YouTube movie points out. Looks like video games with movie tie-ins have always been a bit dodgy.<div style="text-align:center"><object data="http://www.youtube.com/v/2DTjLG3usQo" type="application/x-shockwave-flash" style="width:425px; height:350px"><param name="movie" value="http://www.youtube.com/v/2DTjLG3usQo" /></object></div>

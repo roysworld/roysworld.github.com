@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Space...
+---
+After spending an evening upgrading my SUSE linux distro from 8.2 to 9.0 (actually it was real easy), I started having a look at what else was on the DVD and discovered [Celestia](http://www.shatters.net/celestia/ "Celestia"). It is an amazing open source 3d space simulation and has planet images created from the Voyager photos. You can fly around space looking stars, planets, moons and just about anything. Billy spent about an hour zooming in and out of Jupiter (his current favourite planet - knocking previous favourite Mars off top spot). The speed (on Linux anyway) is breathtaking, oh and there is a Windows version.<br /><br />Here's a taster - a view of the Earth:<br /><br />![Celestia - the Earth](http://www.shatters.net/celestia/images/earth-t.jpg)<br />and Jupiter:<br /><br />![Celestia - the Earth](http://www.shatters.net/celestia/images/io-jupiter-t.jpg)<br />

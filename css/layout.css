@@ -1,0 +1,52 @@
+body {
+  margin:0;
+  padding:0;
+  background:#fff;
+  font-family:Verdana;
+  color:#40454b;
+  font-size:12px
+}
+
+h2 {
+  font-family:Arial;
+  font-size:24px;
+  letter-spacing:-1px;
+  text-transform:capitalize;
+  color: #666;
+}
+
+#strapline {
+  margin-top:10px;
+}
+
+#strapline h1 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 a
+{
+  font-family:Arial;
+  font-size:35px;
+  letter-spacing:-2px;
+  text-transform:capitalize;
+  line-height:35px;
+  color: #666;
+  text-decoration: none;
+}
+
+#strapline h2 {
+  font-size:14px;
+  color: #999;
+  margin: 0;
+}
+
+img {
+display: block;
+max-width: 500px;
+}
+
+#asides img {
+  float: left;
+  margin-right: 5px;
+}

@@ -1,0 +1,21 @@
+#
+# Jekyll configuration
+#
+# destination: ./_site/static
+# auto:        false
+# server_port: 80
+permalink:   none
+paginate:    20
+lsi:         false
+pygments:    true
+markdown:    rdiscount
+
+#
+# Site configuration
+#
+url: http://www.roysworld.co.uk
+title: roysworld
+subtitle: the world according to roy
+description: technologist, magician, father. not necessarily in that order.
+author: roy
+media_version: 4
