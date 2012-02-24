@@ -2,8 +2,6 @@
 layout: post
 title: The Windy Day
 ---
-##( A poem by Annie aged 8 )
-
 _It's a windy day, windy day, windy day._
 
 The washing on the washing line blowing all around,
@@ -29,3 +27,5 @@ But I'm all right, snuggled up tight,
 I've put up my feet, watched tv, 
 
 Now I'll put the kettle on and have a cup of tea!
+
+( A poem by Annie aged 8 )
