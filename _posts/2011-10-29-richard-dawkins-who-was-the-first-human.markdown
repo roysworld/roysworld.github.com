@@ -9,6 +9,8 @@ and he described a great thought experiment from the chapter titled: "Who Was th
 
 Here's a re-presentation of the same ideas recorded at a reading in New York: 
 
-<iframe src="http://www.youtube.com/embed/j4ClZROoyNM" height="315" width="560"></iframe>
+<object type="application/x-shockwave-flash" style="width: 560px; height: 315px" data="http://www.youtube.com/v/j4ClZROoyNM">
+<param name="movie" value="http://www.youtube.com/v/j4ClZROoyNM" /></object>
+
 In a Q&A session after the reading on audience member suggested that all schools should have this book on their bookshelves. 
 What a great idea. Maybe I should buy them a copy?

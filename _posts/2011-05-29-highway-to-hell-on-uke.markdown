@@ -2,4 +2,5 @@
 layout: post
 title: Highway to Hell on Uke
 ---
-<iframe allowfullscreen src="http://www.youtube.com/embed/p2KsHXyJ-is" frameborder="0" height="349" width="560"></iframe>
+<object type="application/x-shockwave-flash" style="width: 560px; height: 315px" data="http://www.youtube.com/v/p2KsHXyJ">
+<param name="movie" value="http://www.youtube.com/v/p2KsHXyJ" /></object>

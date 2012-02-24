@@ -2,4 +2,5 @@
 layout: post
 title: Sonic vs. Pacman
 ---
-<iframe allowfullscreen src="http://www.youtube.com/embed/-zFvjxAje0E" frameborder="0" height="349" width="560"></iframe>
+<object type="application/x-shockwave-flash" style="width: 560px; height: 315px" data="http://www.youtube.com/v/-zFvjxAje0E">
+<param name="movie" value="http://www.youtube.com/v/-zFvjxAje0E" /></object>
