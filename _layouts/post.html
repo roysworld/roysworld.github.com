@@ -6,19 +6,19 @@
 <body>
 {% include strapline.html %}
 <div class="container">
-  <div class="row" id="content">
-    <div class="span11">
-      <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-      <h6>{{ page.date | date_to_long_string }}</h6>
+<div class="row" id="content">
+<div class="span11">
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+<h6>{{ page.date | date_to_long_string }}</h6>
 {{ content }}
-    </div>
-    <div class="span5" id="asides">  
+</div>
+<div class="span5" id="asides">  
 {% include asides.html %}
-    </div>
-    <div class="span5" id="tweets">  
+</div>
+<div class="span5" id="tweets">  
 {% include tweets.html %}
-    </div>
-  </div>
+</div>
+</div>
 </div>
 </body>
 </html>
