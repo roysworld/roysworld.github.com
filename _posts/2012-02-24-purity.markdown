@@ -1,0 +1,5 @@
+--- 
+layout: post
+title: Purity
+---
+[![Purity](http://imgs.xkcd.com/comics/purity.png)](http://xkcd.com/435/)
