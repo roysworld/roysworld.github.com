@@ -50,3 +50,7 @@ max-width: 500px;
   float: left;
   margin-right: 5px;
 }
+
+#tweets {
+  margin-top: 5px;   
+}
