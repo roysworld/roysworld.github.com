@@ -54,3 +54,18 @@ max-width: 500px;
 #tweets {
   margin-top: 5px;   
 }
+
+.flickr_badge_image {
+  margin:0px;
+  display:inline;
+}
+.flickr_badge_image img {
+  border: 1px solid #666666 !important; 
+  padding:1px; margin:2px;
+}
+
+#flickr {
+  margin-top: 5px;
+  width:280px;
+  text-align:left
+}

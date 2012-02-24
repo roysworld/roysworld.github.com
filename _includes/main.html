@@ -1,21 +1,23 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <!-- github -->
-  {% include head.html %}
+{% include head.html %}
 </head> 
 <body>
 {% include strapline.html %}
 <div class="container">
   <div class="row" id="content">
     <div class="span11">
-      {{ content }}
+{{ content }}
     </div>
     <div class="span5" id="asides">  
-      {% include asides.html %}
+{% include asides.html %}
     </div>
     <div class="span5" id="tweets">  
-      {% include tweets.html %}
+{% include tweets.html %}
+    </div>
+    <div class="span5" id="flickr">  
+{% include flickr.html %}
     </div>
   </div>
 </div>
