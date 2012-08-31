@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: will.ia.m and coders
 ---
-So [will.i.am](http://twitter.com/iamwill) is going to [learn to code](http://www.mirror.co.uk/3am/celebrity-news/william-is-going-back-to-school-to-study-1259968). 
+So [will.i.am](http://twitter.com/iamwill) is going to [learn to code](http://www.mirror.co.uk/3am/celebrity-news/william-is-going-back-to-school-to-study-1259968).
 
 Here's what he's got to say on the matter:
 > Next year I am going to school to take a computer science course. When I am 57 I still want to be relevant in popular culture and the way to be relevant within popular culture in the future is writing code.

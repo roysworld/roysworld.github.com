@@ -1,6 +1,0 @@
---- 
-layout: post
-title: Spray Mash
----
-![Miracles in a Can](http://blog.modernmechanix.com/mags/qf/c/MechanixIllustrated/2-1957/spray_cans/xlg_spray_cans_0.jpg)
-I just love [this post](http://blog.modernmechanix.com/2007/06/06/miracles-in-spray-cans/) on [Modern Mechanix](http://blog.modernmechanix.com) titled "Miracles in Spray Cans". Written in 1957 it discusses the future of shipping food in cans using a new propellant called Polysol.Any food that can be made into cream or liquid can be dispensed from Polysol bottles. The first to reach retail shelves, possibly in one to two years, probably will be mayonnaise, syrups, vinegar, cooking oils, salad dressings, sauces and mustard and catsup. Creamed vegetables like spinach, strained baby foods, even mashed potatoes are possible.The idea was dreamt up by an advertising executive who exclaimed:"Charley, if you can put a push button on it you’ll make a fortune. Nobody can resist a push button."Unfortunately the food of the future didn't really materialise. I guess the nearest thing to high tech mashed potatoes we have is [Smash](http://en.wikipedia.org/wiki/Smash_%28instant_mashed_potato%29). Personally I prefer some spuds, butter and a fork although maybe I should try out Heston Blumenthal's [ultimate mashed potato](http://www.bbc.co.uk/food/recipes/database/pommepuree_74822.shtml)?
