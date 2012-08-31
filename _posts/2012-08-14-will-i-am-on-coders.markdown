@@ -11,8 +11,6 @@ Here's what he's got to say on the matter:
 
 > When I was 17 I had a dream and all the dreams I have had since 17 I have done them beyond what I thought I was ever going to do. So now I want to go back to school and learn how to write code so I can participate in this whole new era that we are in.
 
-
 > Writing songs is dope but writing code is better.
-
 
 > <small>will.i.am: 14 August 2012</small>
