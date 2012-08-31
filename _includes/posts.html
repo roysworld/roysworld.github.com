@@ -1,4 +1,5 @@
 {% for post in paginator.posts %}
+{% unless post.draft %}
 <div class="row">
 <div class="span11">
 <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
@@ -6,6 +7,7 @@
 {{ post.content }}
 </div>
 </div>
+{% endunless %}
 {% endfor %}
 <div class="row">
 <div class="span11">
