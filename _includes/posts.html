@@ -2,11 +2,18 @@
 {% unless post.draft %}
 <div class="row">
 <div class="span11">
+{% if post.quote %}
+<blockquote>
+{{ post.content }}
+</blockquote>
+{% endif %}
+{% unless post.quote %}
 <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
 <h6>{{ post.date | date_to_long_string }}</h6>
 {{ post.content }}
 </div>
 </div>
+{% endunless %}
 {% endunless %}
 {% endfor %}
 <div class="row">
@@ -20,12 +27,12 @@
 <li class="previous"><a href="{{ site.url }}/page{{ paginator.previous_page }}/">&larr; Previous</a></li>
 {% endif %}
 {% else %}
-<li class="previous disabled"><a href="#">&larr; Previous</a></li>           
+<li class="previous disabled"><a href="#">&larr; Previous</a></li>
 {% endif %}
 {% if paginator.next_page %}
 <li class="next"><a href="{{ site.url }}/page{{ paginator.next_page }}/">Next &rarr;</a></li>
 {% else %}
-<li class="next disabled"><a href="#">Next &rarr;</a></li>    
+<li class="next disabled"><a href="#">Next &rarr;</a></li>
 {% endif %}
 </ul>
 </div>
